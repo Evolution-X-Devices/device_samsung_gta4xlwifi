@@ -4,7 +4,7 @@
         "target_path": "device/samsung/gta4xl-common"
     },
     {
-        "repository": "vendor_samsung_gta4xl",
-        "target_path": "vendor/samsung/gta4xl"
+        "repository": "vendor_samsung_gta4xlwifi",
+        "target_path": "vendor/samsung/gta4xlwifi"
     }
 ]
